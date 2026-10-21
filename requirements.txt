@@ -1,0 +1,14 @@
+# Core scientific stack for data processing, clustering and machine learning
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.4
+openpyxl>=3.1
+
+# Visualization and interactive widgets
+matplotlib>=3.8
+seaborn>=0.13
+ipywidgets>=8.1
+
+# Interactive execution environment
+jupyter
