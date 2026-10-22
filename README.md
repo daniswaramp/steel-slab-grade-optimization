@@ -13,7 +13,7 @@ mechanical requirement groups.
 
 ## Run it
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/slab-grade-optimization/blob/main/Grade_Optimization.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/steel-slab-grade-optimization/blob/main/Grade_Optimization.ipynb)
 
 Colab or a standard Python scientific environment already carries numpy, scipy, pandas, matplotlib,
 seaborn and scikit-learn. To run locally:
